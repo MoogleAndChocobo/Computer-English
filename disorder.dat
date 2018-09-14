@@ -1,0 +1,148 @@
+<ICS> <Introduction to Computer System, 计算机系统导论>
+<ANSI> <American National Standards Institute, 美国国家标准学会>
+<ISO> <Internatioanl Standards Organization, 国际标准化组织>
+<compilation system> <编译系统>
+<relocatable object program> <可重定位目标程序>
+<GNU> <GNU's Not Unix>
+<free software> <自由软件>
+<word> <字>
+<bit> <位,比特>
+<byte> <字节>
+<DRAM> <动态随机存取存储器>
+<register> <寄存器>
+<register file> <寄存器文件>
+<ALU> <算术/逻辑单元>
+<DMA> <直接存储器>
+<cache memory> <高速缓存,高速缓存存储器>
+<cache> <高速缓存,高速缓存存储器>
+<SRAM> <静态随机访问存储器>
+<kernel> <内核>
+<system call> <系统调用>
+<Amdahl's law> <Amdahl定律>
+<concurrency> <并发>
+<parallelism> <并行>
+<hyperthreading> <超线程>
+<simultaneous multi-threading> <同时多线程>
+<pipelining> <流水线>
+<super-scalar> <超标量>
+<SIMD> <单指令、多数据>
+<API> <应用程序接口>
+<unsigned> <无符号>
+<two's complement> <补码>
+<overflow> <溢出>
+<floating-point> <浮点数>
+<virtual memory> <虚拟内存>
+<virtual address space> <虚拟地址空间>
+<address> 地址
+<program object> <程序对象>
+<hexadecimal> <十六进制>
+<word size> <字长>
+<nominal size> <标称大小>
+<little endian> <小端法>
+<big endian> <大端法>
+<bi-endian> <双端法>
+<disassembler> <反汇编器>
+<cast> <强制类型转换>
+<union> <联合>
+<format string> <格式串>
+<Unicode Consortium> <Unicode联合会>
+<Boolean Algebra> <布尔代数>
+<Boolean ring> <布尔环>
+<additive inverse> <加法逆元>
+<negative weight> <负权>
+<Ones' complement> <反码>
+<zero extension> <零扩展>
+<sign extension> <符号扩展>
+<Abelian group> <阿贝尔群>
+<positive overflow> <正溢出>
+<CERT> <Computer Emergency Response Team, 计算机紧急响应组>
+<CMSEI> <Carnegie Mellon Software Engineering Institute, 卡内基-梅隆软件工程协会>
+<rounding> <舍入>
+<IEEE> <电气和电子工程师协会>
+<sign> <符号>
+<significand> <尾数>
+<exponent> <阶码>
+<round-to-even> <向偶数舍入>
+<round-to-nearest> <向最接近的值舍入>
+<guaranteed bound> <确界>
+<NaN> <Not a Number>
+<integer indefinite> <整数不确定>
+<reverse engineering> <逆向工程>
+<AMD> <Advanced Micro Devices>
+<flat addressing model> <平坦寻址模式>
+<conditional move> <条件传送>
+<hyperthreading> <超线程>
+<IA32> <Intel Architecture 32-bit, Intel 32位体系架构>
+<ISA> <Instruction Set Architecture, 指令集体系架构,指令集架构>
+<disassembler> <反汇编器>
+<condition code> <条件码>
+<parity flag> <奇偶标志>
+<inline assembly> <内联汇编>
+<double words> <双字>
+<quad words> <四字>
+<operand> <操作数<
+<immediate> <立即数>
+<register> <寄存器>
+<pointer dereferencing> <指针间接引用>
+<load effective address> <加载有效地址>
+<oct word> <八字>
+<set less> <小于时设置>
+<set below> <低于时设置>
+<set long word> <设置长字>
+<set byte> <设置字节>
+<synonym> <同义名>
+<PC-relative> <PC相对的>
+<switch> <开关>
+<multiway branching> <多重分支>
+<jump table> <跳转表>
+<function> <函数>
+<method> <方法>
+<subroutine> <子例程>
+<handler> <处理函数>
+<stack fram> <栈帧>
+<buffer overflow> <缓冲区溢出>
+<segmetation fault> <段错误>
+<exploit code> <攻击代码>
+<worm> <蠕虫>
+<virus> <病毒>
+<security monoculture> <安全单一化>
+<Address-Space Layout Randomization> <地址空间布局随机化>
+<nop sled> <空操作雪橇>
+<stack protector> <栈保护者>
+<canary value> <金丝雀值>
+<guard value> <哨兵值>
+<segmented addressing> <段寻址>
+<page> <页>
+<NX> <No-Execute, 不执行>
+<just-in-time> <即时>
+<base pointer> <基指针>
+<media> <媒体>
+<truncation> <截断>
+<aligned> <对齐的>
+<just-in-time compilation> <及时编译>
+<HCL> <Hardware Control Language> <硬件控制语言>
+<pipelined processor> <流水线化的处理器>
+<hazard> <冲突>
+<stage> <阶段>
+<logic synthesis> <逻辑合成>
+<second index register> <第二变址寄存器>
+<code> <代码>
+<function> <功能>
+<register specifier byte> <寄存器指示符字节>
+<constant word> <常数字>
+<exception handler> <异常处理程序>
+<signal handler> <信号处理程序>
+<directive> <伪指令>
+<logic synthesis> <逻辑合成>
+<computational block> <构建计算块>
+<combinational circuits> <组合电路>
+<inverter> <非门>
+<case expression> <情况表达式>
+<sequential circuit> <时序电路>
+<SEQ> <sequential, 顺序的>
+<fetch> <取指>
+<decode> <译码>
+<execute> <执行>
+<memory> <访存>
+<write back> <写回>
+<PC update> <更新PC>
